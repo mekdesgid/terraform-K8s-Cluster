@@ -1,0 +1,13 @@
+.env
+terraform*
+.terraform*
+.terraform/
+.terraform.lock.hcl
+DataServerRunUp.sh
+
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+terraform.tfstate.d/
+secret.tfvars
+.env
